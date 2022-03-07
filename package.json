@@ -1,0 +1,28 @@
+{
+  "name": "auto-example-svelte-tailwind",
+  "version": "1.0.0",
+  "description": "## creation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/auto-lib/auto-example-svelte-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/auto-lib/auto-example-svelte-tailwind/issues"
+  },
+  "homepage": "https://github.com/auto-lib/auto-example-svelte-tailwind#readme",
+  "devDependencies": {
+    "@sveltejs/vite-plugin-svelte": "^1.0.0-next.39",
+    "svelte": "^3.46.4",
+    "vite": "^2.8.6"
+  },
+  "dependencies": {
+    "@autolib/auto": "^1.34.36"
+  }
+}
