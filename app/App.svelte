@@ -3,4 +3,4 @@
 	let { name } = _['#'];
 </script>
 
-<p>Hello {$name}</p>
+<p class="p-5">Hello {$name}</p>
