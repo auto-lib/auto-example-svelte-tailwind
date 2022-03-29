@@ -1,7 +1,32 @@
 
 # auto example svelte tailwind
 
+## installing
+
+just run
+
+```
+pnpm i
+```
+
+## running
+
+just run
+
+```
+vite
+```
+
+## reloading
+
+because of vite you can just edit your source
+files and everything (including the styling)
+will reload instantly in the browser.
+
+
 ## creation
+
+this is how this repo was built (from scratch).
 
 follow same process in https://github.com/auto-lib/auto-example-svelte.
 
@@ -95,26 +120,3 @@ e.g. in `app/App.svelte`
 
 <p class="p-5">Hello {$name}</p>
 ```
-
-## installing (after clone)
-
-just run
-
-```
-pnpm i
-```
-
-## running
-
-just run
-
-```
-vite
-```
-
-## reloading
-
-because of vite you can just edit your source
-files and everything (including the styling)
-will reload instantly in the browser.
-
